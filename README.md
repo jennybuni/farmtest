@@ -37,4 +37,4 @@ The artwork is currently drawn with code, so there are no dependencies or asset 
 - `docs/`: notes and project planning
 
 ## Credits
-Created by a two-person game jam team. Credits for people and any third-party assets will be added here.
+Credits for people and any third-party assets will be added here.
