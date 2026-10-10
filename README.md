@@ -1,6 +1,5 @@
-# Little Patch 🌱
+# Little Patch farm game test
 
-A small, cozy 2D farming game being developed by a two-person team for GitHub Game Off 2026.
 
 > **Status:** Initial project scaffold. The game idea and mechanics are provisional until the jam theme is announced.
 
